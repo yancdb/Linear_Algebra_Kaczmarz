@@ -1,0 +1,17 @@
+/usr/libexec/grepconf.sh: line 5: grep: command not found
+/usr/libexec/grepconf.sh: line 5: grep: command not found
+/usr/libexec/grepconf.sh: line 5: grep: command not found
+/etc/profile.d/pbs.sh: line 43: grep: command not found
+/etc/profile.d/pbs.sh: line 43: tail: command not found
+/etc/profile.d/pbs.sh: line 43: sed: command not found
+/etc/profile.d/which2.sh: line 4: readlink: command not found
+/etc/profile.d/which2.sh: line 4: basename: command not found
+/var/spool/pbs/mom_priv/jobs/172419.frontend.SC: line 19: cat: command not found
+/var/spool/pbs/mom_priv/jobs/172419.frontend.SC: line 26: nvidia-smi: command not found
+/var/spool/pbs/mom_priv/jobs/172419.frontend.SC: line 26: wc: command not found
+/var/spool/pbs/mom_priv/jobs/172419.frontend.SC: line 41: conda: command not found
+/var/spool/pbs/mom_priv/jobs/172419.frontend.SC: line 44: nvidia-smi: command not found
+
+real	0m4.361s
+user	0m1.685s
+sys	0m0.327s
